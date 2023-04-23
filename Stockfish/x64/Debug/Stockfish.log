@@ -1,0 +1,42 @@
+﻿  benchmark.cpp
+  bitbase.cpp
+  bitboard.cpp
+  endgame.cpp
+  evaluate.cpp
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\evaluate.cpp(162,44): warning C5055: operator '/': deprecated between enumerations and floating-point types
+  main.cpp
+  material.cpp
+  misc.cpp
+  movegen.cpp
+  movepick.cpp
+  evaluate_nnue.cpp
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\nnue\evaluate_nnue.cpp(256,40): warning C5055: operator '/': deprecated between enumerations and floating-point types
+  half_ka_v2_hm.cpp
+  pawns.cpp
+  position.cpp
+  psqt.cpp
+  search.cpp
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\search.cpp(350,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\search.cpp(423,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\search.cpp(491,24): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\search.cpp(495,25): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\search.cpp(609,28): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+  tbprobe.cpp
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\syzygy\tbprobe.cpp(545,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\syzygy\tbprobe.cpp(1005,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  thread.cpp
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\thread.cpp(206,68): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+  timeman.cpp
+  tt.cpp
+  Generating Code...
+  Compiling...
+  tune.cpp
+  uci.cpp
+C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\Stockfish\uci.cpp(216,44): warning C5055: operator '/': deprecated between enumerations and floating-point types
+  ucioption.cpp
+  Generating Code...
+  Stockfish.vcxproj -> C:\Users\Danie\Documents\GitHub\Formation-Chess\Stockfish-for-Formation-Chess\x64\Debug\Stockfish.exe

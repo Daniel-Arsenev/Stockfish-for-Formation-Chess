@@ -1,0 +1,13 @@
+﻿  movepick.cpp
+  search.cpp
+D:\Code\VS Code\Stockfish\Stockfish\search.cpp(350,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Code\VS Code\Stockfish\Stockfish\search.cpp(423,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Code\VS Code\Stockfish\Stockfish\search.cpp(491,24): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+D:\Code\VS Code\Stockfish\Stockfish\search.cpp(495,25): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+D:\Code\VS Code\Stockfish\Stockfish\search.cpp(609,28): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+  Generating code
+  3 of 3995 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Stockfish.vcxproj -> D:\Code\VS Code\Stockfish\x64\Release\Stockfish.exe
